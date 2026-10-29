@@ -38,3 +38,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://joramechanical.github.io/sitemap.xml
+Sitemap: https://joramechanical.github.io/gta/sitemap.xml
+Sitemap: https://joramechanical.github.io/saskatchewan/sitemap.xml
